@@ -1,4 +1,4 @@
-# Mini-project II
+# Travelling Salesman & API Data Extraction
 
 In this project, I will cover these topics:
 - APIs
